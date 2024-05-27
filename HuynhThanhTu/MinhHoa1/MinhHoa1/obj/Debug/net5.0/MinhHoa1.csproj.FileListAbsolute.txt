@@ -1,0 +1,96 @@
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\appsettings.Development.json
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\appsettings.json
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\MinhHoa1.exe
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\MinhHoa1.deps.json
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\MinhHoa1.runtimeconfig.json
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\MinhHoa1.runtimeconfig.dev.json
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\MinhHoa1.dll
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\ref\MinhHoa1.dll
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\MinhHoa1.pdb
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\MinhHoa1.Views.dll
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\MinhHoa1.Views.pdb
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.csproj.AssemblyReference.cache
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.AssemblyInfoInputs.cache
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.AssemblyInfo.cs
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.csproj.CoreCompileInputs.cache
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.MvcApplicationPartsAssemblyInfo.cache
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.RazorAssemblyInfo.cache
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.RazorAssemblyInfo.cs
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\staticwebassets\MinhHoa1.StaticWebAssets.Manifest.cache
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\staticwebassets\MinhHoa1.StaticWebAssets.xml
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\scopedcss\bundle\MinhHoa1.styles.css
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.TagHelpers.input.cache
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.TagHelpers.output.cache
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.RazorCoreGenerate.cache
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\GioiThieu\AnhChiEm.cshtml.g.cs
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\GioiThieu\ChaMe.cshtml.g.cs
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\GioiThieu\Index.cshtml.g.cs
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\GioiThieu\My.cshtml.g.cs
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.RazorTargetAssemblyInfo.cache
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.RazorTargetAssemblyInfo.cs
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.Views.pdb
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.dll
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\ref\MinhHoa1.dll
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.pdb
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.genruntimeconfig.cache
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.csproj.CopyComplete
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\TinhToan\Index.cshtml.g.cs
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\TinhToan\XuLy.cshtml.g.cs
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\TNAnh\Index.cshtml.g.cs
+D:\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\TNAnh\XuLy.cshtml.g.cs
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\appsettings.json
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\MinhHoa1.exe
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\MinhHoa1.deps.json
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\MinhHoa1.runtimeconfig.json
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\MinhHoa1.runtimeconfig.dev.json
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\MinhHoa1.dll
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\ref\MinhHoa1.dll
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\MinhHoa1.pdb
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\MinhHoa1.Views.dll
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\bin\Debug\net5.0\MinhHoa1.Views.pdb
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.RazorAssemblyInfo.cache
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.RazorAssemblyInfo.cs
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\staticwebassets\MinhHoa1.StaticWebAssets.Manifest.cache
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\staticwebassets\MinhHoa1.StaticWebAssets.xml
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\scopedcss\bundle\MinhHoa1.styles.css
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.TagHelpers.input.cache
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.TagHelpers.output.cache
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.RazorCoreGenerate.cache
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\GioiThieu\AnhChiEm.cshtml.g.cs
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\GioiThieu\ChaMe.cshtml.g.cs
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\GioiThieu\Index.cshtml.g.cs
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\GioiThieu\My.cshtml.g.cs
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\TinhToan\Index.cshtml.g.cs
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\TinhToan\XuLy.cshtml.g.cs
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\TNAnh\Index.cshtml.g.cs
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\TNAnh\XuLy.cshtml.g.cs
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.RazorTargetAssemblyInfo.cache
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.RazorTargetAssemblyInfo.cs
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.Views.pdb
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.dll
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\ref\MinhHoa1.dll
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.pdb
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\HaTuanAnh_ASP.Core\MinhHoa1\MinhHoa1\obj\Debug\net5.0\MinhHoa1.csproj.CopyComplete

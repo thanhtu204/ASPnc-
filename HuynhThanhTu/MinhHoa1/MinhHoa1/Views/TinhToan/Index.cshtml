@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model TinhToanModel
+<h2>Tính Toán Đơn Gỉan</h2>
+<hr/>
+<form method="post" asp-controller="TinhToan" asp-action="XuLy">
+    <div class="form-group">
+        <label>Nhập Số 1</label>
+        <input asp-for="so1" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Nhập Số 2</label>
+        <input  asp-for="so2" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Chọn Phép Tính</label>
+        <select  asp-for="pt" class="form-control">
+            <option value="+">+</option>
+            <option value="-">-</option>
+            <option value="*">*</option>
+            <option value="/">*</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Tính</button>
+</form>
+<hr/>
+@if (ViewBag.kq != null) {
+    
+<h4>Ket qua @ViewBag.kq  </h4> }
